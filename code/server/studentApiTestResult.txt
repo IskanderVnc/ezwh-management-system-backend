@@ -1,0 +1,159 @@
+Server listening at http://localhost:3001
+
+
+  Test InternalOrder Api
+    ✔ adding a new Internal  (40ms)
+    ✔ Updating a Internal State
+    ✔ getting a InternalOrder List (41ms)
+    ✔ getting a InternalOrder Issued List
+    ✔ getting a InternalOrder Accepted List
+    ✔ getting a InternalOrder by ID
+    ✔ deleting an InternalOrder
+    ✔ adding a new Internal 
+    ✔ adding a new Internal 
+    ✔ adding a new Internal 
+    ✔ getting a InternalOrder by ID
+    ✔ getting a InternalOrder by ID
+
+  Test Item Api
+    ✔ adding a new Item 
+    ✔ getting a Item List
+    ✔ getting a Item by ID
+    ✔ Updating an Item
+    ✔ deleting an Item
+    ✔ adding a new Item 
+    ✔ adding a new Item 
+    ✔ adding a new Item 
+    ✔ adding a new Item 
+    ✔ adding a new Item 
+    ✔ adding a new Item 
+    ✔ getting a Item by ID
+    ✔ Updating an Item
+    ✔ Updating an Item
+    ✔ Updating an Item
+
+  Test Position Api
+    ✔ adding a new Position 
+    ✔ getting a position List
+    ✔ Updating a position
+    ✔ Updating a position ID of an existing position
+    ✔ deleting a Position
+    ✔ adding a new Position 
+    ✔ adding a new Position 
+    ✔ adding a new Position 
+    ✔ Updating a position
+    ✔ Updating a position ID of an existing position
+    ✔ deleting a Position
+
+  Test RestockOrder Api
+    ✔ adding a new RestockOrder 
+    ✔ Updating a RestockOrder State
+    ✔ Updating a RestockOrder TransportNote (41ms)
+    ✔ Updating a RestockOrder TransportNote (41ms)
+    ✔ getting a RestockOrder List
+    ✔ getting a RestockOrder ISSUED
+    ✔ getting a RestockOrder by ID
+    ✔ deleting a RestockOrder
+    ✔ adding a new RestockOrder 
+    ✔ adding a new RestockOrder 
+    ✔ adding a new RestockOrder 
+    ✔ Updating a RestockOrder State
+    ✔ Updating a RestockOrder State
+    ✔ Updating a RestockOrder TransportNote
+    ✔ Updating a RestockOrder TransportNote
+    ✔ Updating a RestockOrder TransportNote
+    ✔ Updating a RestockOrder TransportNote
+    ✔ deleting a RestockOrder
+    ✔ deleting a RestockOrder
+
+  Test ReturnOrder Api
+    ✔ adding a new ReturnOrder 
+    ✔ getting a ReturnOrder List
+    ✔ getting a ReturnOrder by ID
+    ✔ deleting a ReturnOrder
+    ✔ adding a new ReturnOrder 
+    ✔ adding a new ReturnOrder 
+    ✔ adding a new ReturnOrder 
+    ✔ adding a new ReturnOrder 
+    ✔ getting a ReturnOrder by ID
+    ✔ deleting a ReturnOrder (41ms)
+
+  Test SkuItem Apis
+    ✔ adding a new Sku Item
+    ✔ getting a sku item List
+    ✔ getting a sku item by RFID
+    ✔ getting a sku item by ID
+    ✔ updating a sku item
+    ✔ deleting a SKUItem
+    ✔ adding a new Sku Item
+    ✔ adding a new Sku Item
+    ✔ adding a new Sku Item
+    ✔ getting a sku item by ID
+    ✔ updating a sku item
+
+  Test SKUs Api
+    ✔ adding a new Sku 
+    ✔ getting a sku List
+    ✔ getting a sku  by ID
+    ✔ Updating a Sku
+    ✔ Updating a Sku position
+    ✔ deleting a SKU
+    ✔ adding a new Sku 
+    ✔ adding a new Sku 
+    ✔ adding a new Sku 
+    ✔ getting a sku  by ID
+    ✔ Updating a Sku
+    ✔ deleting a SKU
+
+  Test TestDescriptor Api
+    ✔ adding a new TestDescriptor 
+    ✔ getting a TestDescriptor List
+    ✔ getting a TestDescriptor by ID
+    ✔ Updating a TestDescriptor
+    ✔ deleting a TestDescriptor
+    ✔ adding a new TestDescriptor 
+    ✔ adding a new TestDescriptor 
+    ✔ adding a new TestDescriptor 
+    ✔ adding a new TestDescriptor 
+    ✔ getting a TestDescriptor by ID
+    ✔ Updating a TestDescriptor
+    ✔ Updating a TestDescriptor
+    ✔ deleting a TestDescriptor
+
+  Test TestResult Api
+    ✔ adding a new TestResult 
+    ✔ getting a TestResult List
+    ✔ getting a TestResult by ID
+    ✔ Updating a TestResult
+    ✔ deleting a TestResult (42ms)
+    ✔ adding a new TestResult 
+    ✔ adding a new TestResult 
+    ✔ adding a new TestResult 
+    ✔ adding a new TestResult 
+    ✔ adding a new TestResult 
+    ✔ adding a new TestResult 
+    ✔ getting a TestResult by ID
+    ✔ getting a TestResult by ID
+    ✔ Updating a TestResult
+    ✔ deleting a TestResult
+
+  Test User Api
+    ✔ adding a new User  (73ms)
+    ✔ getting a User List (150ms)
+    ✔ getting a Supplier List (159ms)
+    ✔ Updating a User (78ms)
+    ✔ deleting a User (73ms)
+    ✔ adding a new User 
+    ✔ adding a new User 
+    ✔ adding a new User 
+    ✔ Updating a User
+    ✔ logging a User (142ms)
+    ✔ logging a User (135ms)
+    ✔ deleting a User (74ms)
+    ✔ deleting a User
+    ✔ deleting a User
+    ✔ logout a user
+
+
+  133 passing (43s)
+
