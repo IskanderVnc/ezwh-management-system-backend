@@ -4,4 +4,4 @@ The assignment: documentation of the software engineering process + implementati
 The client was already implemented and given by the professor of the course and was then used just for simple testing.
 
 ## Repository content
-All the documentation generated along the entire software engineering process and all its step and the code (especially the backend) used.
+All the documentation generated along the entire software engineering process and all its step and the code (client+server) used.
